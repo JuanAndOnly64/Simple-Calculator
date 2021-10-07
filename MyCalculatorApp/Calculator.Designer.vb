@@ -121,6 +121,7 @@ Partial Class Calculator
         Me.BtnNum0.Name = "BtnNum0"
         Me.BtnNum0.Size = New System.Drawing.Size(77, 46)
         Me.BtnNum0.TabIndex = 15
+        Me.BtnNum0.Tag = "0"
         Me.BtnNum0.Text = "0"
         Me.BtnNum0.UseVisualStyleBackColor = False
         '
@@ -151,6 +152,7 @@ Partial Class Calculator
         Me.BtnNum9.Name = "BtnNum9"
         Me.BtnNum9.Size = New System.Drawing.Size(77, 46)
         Me.BtnNum9.TabIndex = 12
+        Me.BtnNum9.Tag = "9"
         Me.BtnNum9.Text = "9"
         Me.BtnNum9.UseVisualStyleBackColor = False
         '
@@ -161,6 +163,7 @@ Partial Class Calculator
         Me.BtnNum8.Name = "BtnNum8"
         Me.BtnNum8.Size = New System.Drawing.Size(77, 46)
         Me.BtnNum8.TabIndex = 11
+        Me.BtnNum8.Tag = "8"
         Me.BtnNum8.Text = "8"
         Me.BtnNum8.UseVisualStyleBackColor = False
         '
@@ -171,6 +174,7 @@ Partial Class Calculator
         Me.BtnNum7.Name = "BtnNum7"
         Me.BtnNum7.Size = New System.Drawing.Size(77, 46)
         Me.BtnNum7.TabIndex = 10
+        Me.BtnNum7.Tag = "7"
         Me.BtnNum7.Text = "7"
         Me.BtnNum7.UseVisualStyleBackColor = False
         '
@@ -191,6 +195,7 @@ Partial Class Calculator
         Me.BtnNum6.Name = "BtnNum6"
         Me.BtnNum6.Size = New System.Drawing.Size(77, 46)
         Me.BtnNum6.TabIndex = 8
+        Me.BtnNum6.Tag = "6"
         Me.BtnNum6.Text = "6"
         Me.BtnNum6.UseVisualStyleBackColor = False
         '
@@ -201,6 +206,7 @@ Partial Class Calculator
         Me.BtnNum5.Name = "BtnNum5"
         Me.BtnNum5.Size = New System.Drawing.Size(77, 46)
         Me.BtnNum5.TabIndex = 7
+        Me.BtnNum5.Tag = "5"
         Me.BtnNum5.Text = "5"
         Me.BtnNum5.UseVisualStyleBackColor = False
         '
@@ -211,6 +217,7 @@ Partial Class Calculator
         Me.BtnNum4.Name = "BtnNum4"
         Me.BtnNum4.Size = New System.Drawing.Size(77, 46)
         Me.BtnNum4.TabIndex = 6
+        Me.BtnNum4.Tag = "4"
         Me.BtnNum4.Text = "4"
         Me.BtnNum4.UseVisualStyleBackColor = False
         '
@@ -231,6 +238,7 @@ Partial Class Calculator
         Me.BtnNum3.Name = "BtnNum3"
         Me.BtnNum3.Size = New System.Drawing.Size(77, 46)
         Me.BtnNum3.TabIndex = 4
+        Me.BtnNum3.Tag = "3"
         Me.BtnNum3.Text = "3"
         Me.BtnNum3.UseVisualStyleBackColor = False
         '
@@ -241,6 +249,7 @@ Partial Class Calculator
         Me.BtnNum2.Name = "BtnNum2"
         Me.BtnNum2.Size = New System.Drawing.Size(77, 46)
         Me.BtnNum2.TabIndex = 3
+        Me.BtnNum2.Tag = "2"
         Me.BtnNum2.Text = "2"
         Me.BtnNum2.UseVisualStyleBackColor = False
         '
@@ -251,6 +260,7 @@ Partial Class Calculator
         Me.BtnNum1.Name = "BtnNum1"
         Me.BtnNum1.Size = New System.Drawing.Size(77, 46)
         Me.BtnNum1.TabIndex = 2
+        Me.BtnNum1.Tag = "1"
         Me.BtnNum1.Text = "1"
         Me.BtnNum1.UseVisualStyleBackColor = False
         '
