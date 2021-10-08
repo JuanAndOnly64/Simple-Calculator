@@ -81,6 +81,7 @@ Partial Class Calculator
         Me.BtnDecimal.Name = "BtnDecimal"
         Me.BtnDecimal.Size = New System.Drawing.Size(77, 46)
         Me.BtnDecimal.TabIndex = 20
+        Me.BtnDecimal.Tag = "Decimal"
         Me.BtnDecimal.Text = "."
         Me.BtnDecimal.UseVisualStyleBackColor = False
         '
@@ -111,6 +112,7 @@ Partial Class Calculator
         Me.BtnDivide.Name = "BtnDivide"
         Me.BtnDivide.Size = New System.Drawing.Size(77, 46)
         Me.BtnDivide.TabIndex = 17
+        Me.BtnDivide.Tag = "Divide"
         Me.BtnDivide.Text = "÷"
         Me.BtnDivide.UseVisualStyleBackColor = False
         '
@@ -132,6 +134,7 @@ Partial Class Calculator
         Me.BtnNegative.Name = "BtnNegative"
         Me.BtnNegative.Size = New System.Drawing.Size(77, 46)
         Me.BtnNegative.TabIndex = 14
+        Me.BtnNegative.Tag = "Negative"
         Me.BtnNegative.Text = "±"
         Me.BtnNegative.UseVisualStyleBackColor = False
         '
@@ -142,6 +145,7 @@ Partial Class Calculator
         Me.BtnAdd.Name = "BtnAdd"
         Me.BtnAdd.Size = New System.Drawing.Size(77, 46)
         Me.BtnAdd.TabIndex = 13
+        Me.BtnAdd.Tag = "Add"
         Me.BtnAdd.Text = "+"
         Me.BtnAdd.UseVisualStyleBackColor = False
         '
@@ -185,6 +189,7 @@ Partial Class Calculator
         Me.BtnMinus.Name = "BtnMinus"
         Me.BtnMinus.Size = New System.Drawing.Size(77, 46)
         Me.BtnMinus.TabIndex = 9
+        Me.BtnMinus.Tag = "Subtract"
         Me.BtnMinus.Text = "-"
         Me.BtnMinus.UseVisualStyleBackColor = False
         '
@@ -228,6 +233,7 @@ Partial Class Calculator
         Me.BtnMultiply.Name = "BtnMultiply"
         Me.BtnMultiply.Size = New System.Drawing.Size(77, 46)
         Me.BtnMultiply.TabIndex = 5
+        Me.BtnMultiply.Tag = "Multiply"
         Me.BtnMultiply.Text = "x"
         Me.BtnMultiply.UseVisualStyleBackColor = False
         '
