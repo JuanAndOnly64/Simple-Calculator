@@ -92,6 +92,7 @@ Partial Class Calculator
         Me.BtnClear.Name = "BtnClear"
         Me.BtnClear.Size = New System.Drawing.Size(77, 46)
         Me.BtnClear.TabIndex = 19
+        Me.BtnClear.Tag = "Clear"
         Me.BtnClear.Text = "C"
         Me.BtnClear.UseVisualStyleBackColor = False
         '
